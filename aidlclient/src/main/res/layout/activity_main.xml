@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:onClick="bindService"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="绑定远程服务" />
+    <Button
+        android:onClick="callRemoteMethod1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发起RPC_1" />
+    <Button
+        android:onClick="callRemoteMethod2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发起RPC_2" />
+</LinearLayout>
