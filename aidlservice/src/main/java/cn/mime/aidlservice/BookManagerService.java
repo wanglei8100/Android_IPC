@@ -6,15 +6,15 @@ import android.os.IBinder;
 import android.os.RemoteException;
 import android.util.Log;
 
-import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 import cn.mime.aidldemo.aidl.Book;
 import cn.mime.aidldemo.aidl.IBookManager;
 
 public class BookManagerService extends Service {
     private static final String TAG = "BookManagerService";
-    private List<Book> mBookList = new ArrayList<>();
+    private CopyOnWriteArrayList<Book> mBookList = new CopyOnWriteArrayList<>();
 
     private IBookManager.Stub mBookManager = new IBookManager.Stub() {
         @Override
