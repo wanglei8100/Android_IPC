@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/aidlclient" />
             <option value="$PROJECT_DIR$/aidlclient_v2" />
+            <option value="$PROJECT_DIR$/aidlclient_v3" />
             <option value="$PROJECT_DIR$/aidlservice" />
             <option value="$PROJECT_DIR$/aidlservice_v2" />
             <option value="$PROJECT_DIR$/aidlservice_v3" />
