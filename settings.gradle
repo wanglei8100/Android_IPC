@@ -1,1 +1,1 @@
-include ':app', ':aidlclient', ':aidlservice', ':messengerservice', ':messengerclient', ':aidlservice_v2', ':aidlclient_v2', ':aidlservice_v3', ':aidlclient_v3'
+include ':app', ':aidlclient', ':aidlservice', ':messengerservice', ':messengerclient', ':aidlservice_v2', ':aidlclient_v2', ':aidlservice_v3', ':aidlclient_v3', ':binderpoolservice', ':binderpool_shareclient'
