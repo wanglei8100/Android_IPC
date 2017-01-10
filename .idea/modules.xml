@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/binderpoolservice/binderpoolservice.iml" filepath="$PROJECT_DIR$/binderpoolservice/binderpoolservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/messengerclient/messengerclient.iml" filepath="$PROJECT_DIR$/messengerclient/messengerclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/messengerservice/messengerservice.iml" filepath="$PROJECT_DIR$/messengerservice/messengerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/socketclient.iml" filepath="$PROJECT_DIR$/socketclient/socketclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketservice/socketservice.iml" filepath="$PROJECT_DIR$/socketservice/socketservice.iml" />
     </modules>
   </component>
 </project>

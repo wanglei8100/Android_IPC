@@ -19,6 +19,8 @@
             <option value="$PROJECT_DIR$/binderpoolservice" />
             <option value="$PROJECT_DIR$/messengerclient" />
             <option value="$PROJECT_DIR$/messengerservice" />
+            <option value="$PROJECT_DIR$/socketclient" />
+            <option value="$PROJECT_DIR$/socketservice" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
